@@ -74,6 +74,11 @@ This solution aligns with the business objective by **enabling strategic interve
 
 ---
 
+## **Link to Coursera Data Science Challenge**
+For more details and to view the challenge notebook, visit the following link:  
+[Coursera Data Science Challenge - Churn Prediction](https://hub.labs.coursera.org:443/connect/sharedzfcxmnxr?forceRefresh=false&path=%2Fnotebooks%2FChurnPrediction.ipynb&isLabVersioning=file-prep)
+
+---
 ## **How to Run the Project**
 1. Clone the repository:  
    ```bash
