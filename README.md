@@ -60,7 +60,7 @@ The core business problem was to **identify customers at high risk of churning**
 - It can be deployed as an **API or integrated into a CRM system** for **real-time churn prediction**.  
 
 ### **Conclusion**  
-This solution aligns with the business objective by **enabling strategic interventions** before customers churn, leading to **higher retention, improved profitability, and sustained user engagement**. 🚀
+This solution aligns with the business objective by **enabling strategic interventions** before customers churn, leading to **higher retention, improved profitability, and sustained user engagement**. 
 
 ---
 
