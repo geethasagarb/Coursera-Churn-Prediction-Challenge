@@ -1,6 +1,6 @@
 # **Coursera - Data Science Challenge - Customer Churn Prediction**
 
-![c612fc20a0c9](https://github.com/user-attachments/assets/326d6662-1d1b-447f-8dc2-ca625d52ab79) ![0*d58iZ6esNNcfntQ7](https://github.com/user-attachments/assets/124de62d-2f90-4343-aa0d-25ada771c155)
+![0*d58iZ6esNNcfntQ7](https://github.com/user-attachments/assets/124de62d-2f90-4343-aa0d-25ada771c155)
 
 
 ## **Project Overview**  
