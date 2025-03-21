@@ -35,8 +35,9 @@ This project focuses on predicting customer churn for a video streaming service 
 
 ### **4. Results & Business Impact**
 - Achieved a **75.1% ROC AUC score**.
-- Outperformed **100% of peers** in competition rankings.
 - Provided insights to help the business implement **targeted retention strategies** and reduce customer churn.
+- ![Screenshot 2025-03-21 at 04 50 43](https://github.com/user-attachments/assets/1033837d-47f3-431b-80d2-422ae5ae7bd9)
+
 
 ---
 
