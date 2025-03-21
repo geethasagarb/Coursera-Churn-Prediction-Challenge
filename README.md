@@ -41,10 +41,28 @@ This project focuses on predicting customer churn for a video streaming service 
 
 ---
 
-## **Key Findings**
-- **Higher watchlist sizes and longer viewing hours** correlate with lower churn rates.
-- **Payment method and subscription type** significantly impact churn behavior.
-- **Personalized retention efforts** for high-risk customers can enhance customer lifetime value.
+### **How the Business Problem is Solved with Logistic Regression**  
+
+The core business problem was to **identify customers at high risk of churning** from the video streaming service. By using a **Logistic Regression model with feature engineering and preprocessing**, we achieved the following key outcomes:
+
+ **Early Churn Prediction**:  
+- The model predicts **churn likelihood for each customer**, allowing proactive retention strategies.  
+- With a **75.1% ROC AUC score**, it effectively differentiates between customers likely to churn vs. stay.  
+
+ **Data-Driven Decision Making**:  
+- The model provides insights into **which customer segments** (e.g., payment methods, subscription types, content preferences) are more likely to churn.  
+- This helps in **tailoring marketing efforts** and **offering personalized retention incentives**.  
+
+ **Cost Reduction & Revenue Growth**:  
+- **Preemptive retention strategies** (e.g., discounts, content recommendations) can be targeted at high-risk users.  
+- Preventing churn directly translates to **higher customer lifetime value (CLV)** and **reduced acquisition costs**.  
+
+ **Scalability & Automation**:  
+- The pipeline-based model can **easily be updated** with new data, making it scalable for future use.  
+- It can be deployed as an **API or integrated into a CRM system** for **real-time churn prediction**.  
+
+### **Conclusion**  
+This solution aligns with the business objective by **enabling strategic interventions** before customers churn, leading to **higher retention, improved profitability, and sustained user engagement**. 🚀
 
 ---
 
@@ -53,13 +71,6 @@ This project focuses on predicting customer churn for a video streaming service 
 - **Libraries:** Pandas, NumPy, Scikit-learn  
 - **Machine Learning:** Logistic Regression, OneHotEncoder, ColumnTransformer  
 - **Development Environment:** Jupyter Notebook  
-
----
-
-## **Next Steps**
-- Experiment with **alternative models** (e.g., Random Forest, XGBoost) to improve accuracy.  
-- Perform **feature selection** to optimize model efficiency.  
-- **Deploy the model** as an API or integrate it into a business dashboard.  
 
 ---
 
